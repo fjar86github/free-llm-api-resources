@@ -1,0 +1,6 @@
+venv
+.venv
+.env
+.aider*
+*.json
+*.pyc
